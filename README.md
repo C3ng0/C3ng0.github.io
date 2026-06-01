@@ -8,10 +8,14 @@ I am cengizhan
 
 This is going to be my website
 
-#about me 
+#hobbies 
 
-i like to ice skate 
-,i play the saz 
-,i am a good dancer 
-,i like to rollablade 
+-i like to ice skate 
+-i play the saz 
+-i am a good dancer 
+-i like to rollablade 
 
+#my current projects
+
+-making a perosnal github website 
+-Coomp5008 corsework
