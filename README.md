@@ -4,6 +4,8 @@
 
 I am cengizhan
 
+![My Photo](WhatsApp Image 2026-05-31 at 12.26.43 PM (1).jpeg)
+
 This is going to be my website
 
 #about me 
